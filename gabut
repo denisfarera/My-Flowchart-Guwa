@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="UfCO9s0ilLKzPC2RHRyp">
+    <mxGraphModel dx="1003" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-4" edge="1" parent="1" source="JB9mWOBWvwGFcn5lBEuB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JB9mWOBWvwGFcn5lBEuB-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="50" width="120" x="250" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-6" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="int matkul = 5, i&lt;div&gt;double rata, total = 0&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-8" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-5" parent="1" style="whiteSpace=wrap;html=1;" value="i = 1" vertex="1">
+          <mxGeometry height="40" width="120" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-10" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-20" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="i &amp;lt;= 5" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-12" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="input nilai" vertex="1">
+          <mxGeometry height="40" width="120" x="390" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-16" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-11" parent="1" style="whiteSpace=wrap;html=1;" value="total += nilai" vertex="1">
+          <mxGeometry height="40" width="100" x="560" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-18" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-15" parent="1" style="whiteSpace=wrap;html=1;" value="i++" vertex="1">
+          <mxGeometry height="30" width="70" x="575" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-24" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-19" parent="1" style="whiteSpace=wrap;html=1;" value="rata = total / matkul" vertex="1">
+          <mxGeometry height="40" width="120" x="250" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-26" edge="1" parent="1" source="gJfCeRzaOIp4Hog26XYM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="gJfCeRzaOIp4Hog26XYM-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="output rata" vertex="1">
+          <mxGeometry height="40" width="120" x="250" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="gJfCeRzaOIp4Hog26XYM-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="end" vertex="1">
+          <mxGeometry height="50" width="80" x="270" y="580" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
